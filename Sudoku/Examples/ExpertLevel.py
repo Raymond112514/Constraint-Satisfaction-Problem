@@ -14,7 +14,7 @@ problem = {
             (7, 2): 4, (7, 5): 7, (7, 6): 1,
             (8, 3): 6, (8, 8): 5,
             (9, 1): 8, (9, 9): 3
-        }
+          }
 
 sudoku = Sudoku(3, problem)
 sudoku.printAssignment()
